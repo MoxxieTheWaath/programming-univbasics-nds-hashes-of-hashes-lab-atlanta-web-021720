@@ -43,7 +43,7 @@ def naming_system
   # HoH all the way to Species!
 {kingdom: {
   phylum: {
-    class: {
+    :class => {
       order: {
         family: {
           genus: {
